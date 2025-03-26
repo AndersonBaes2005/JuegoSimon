@@ -1,5 +1,5 @@
 # JuegoSimon
-
-iniciar proyecto node:
+La carpeta que falta Node - 
+Iniciar proyecto node:
 npm init -y
 
