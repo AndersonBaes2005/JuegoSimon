@@ -1,4 +1,5 @@
 # JuegoSimon
 
 iniciar proyecto node:
-npm init
+npm init -y
+
